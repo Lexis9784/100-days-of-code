@@ -2,6 +2,8 @@
 
 ### Day 1: May 31, 2020
 
+<img src=”#" alt=””>
+
 **Today's Progress**: Restarted my progress on FreeCodeCamp. Worked through HTML and CSS to refresh myself. 
 
 **Thoughts:** HTML and CSS came back pretty quickly. Forgot how much I enjoy just coding for the sake of learning something new. We'll see how it goes getting into the other areas since I stopped before I really got into them last time. 
@@ -9,6 +11,8 @@
 **Link to work:** No projects right now, just working back through the basics. Hopefully have some to link to soon!
 
 ### Day 2: 
+
+<img src=”#" alt=””>
 
 **Today's Progress**: 
 
@@ -19,6 +23,8 @@
 
 ### Day 3: 
 
+<img src=”#" alt=””>
+
 **Today's Progress**: 
 
 **Thoughts** 
@@ -27,6 +33,8 @@
 
 
 ### Day 4: 
+
+<img src=”#" alt=””>
 
 **Today's Progress**: 
 
@@ -37,6 +45,8 @@
 
 ### Day 5: 
 
+<img src=”#" alt=””>
+
 **Today's Progress**: 
 
 **Thoughts** 
@@ -45,6 +55,8 @@
 
 
 ### Day 6: 
+
+<img src=”#" alt=””>
 
 **Today's Progress**: 
 
@@ -55,6 +67,8 @@
 
 ### Day 7: 
 
+<img src=”#" alt=””>
+
 **Today's Progress**: 
 
 **Thoughts** 
@@ -63,6 +77,8 @@
 
 
 ### Day 8: 
+
+<img src=”#" alt=””>
 
 **Today's Progress**: 
 
@@ -73,6 +89,8 @@
 
 ### Day 9: 
 
+<img src=”#" alt=””>
+
 **Today's Progress**: 
 
 **Thoughts** 
@@ -81,6 +99,8 @@
 
 
 ### Day 10: 
+
+<img src=”#" alt=””>
 
 **Today's Progress**: 
 
@@ -91,6 +111,8 @@
 
 ### Day 11: 
 
+<img src=”#" alt=””>
+
 **Today's Progress**: 
 
 **Thoughts** 
@@ -99,6 +121,8 @@
 
 
 ### Day 12: 
+
+<img src=”#" alt=””>
 
 **Today's Progress**: 
 
@@ -109,6 +133,8 @@
 
 ### Day 13: 
 
+<img src=”#" alt=””>
+
 **Today's Progress**: 
 
 **Thoughts** 
@@ -117,6 +143,8 @@
 
 
 ### Day 14: 
+
+<img src=”#" alt=””>
 
 **Today's Progress**: 
 
@@ -127,6 +155,8 @@
 
 ### Day 15: 
 
+<img src=”#" alt=””>
+
 **Today's Progress**: 
 
 **Thoughts** 
@@ -135,6 +165,8 @@
 
 
 ### Day 16: 
+
+<img src=”#" alt=””>
 
 **Today's Progress**: 
 
@@ -145,6 +177,8 @@
 
 ### Day 17: 
 
+<img src=”#" alt=””>
+
 **Today's Progress**: 
 
 **Thoughts** 
@@ -153,6 +187,8 @@
 
 
 ### Day 18: 
+
+<img src=”#" alt=””>
 
 **Today's Progress**: 
 
@@ -163,6 +199,8 @@
 
 ### Day 19: 
 
+<img src=”#" alt=””>
+
 **Today's Progress**: 
 
 **Thoughts** 
@@ -171,6 +209,8 @@
 
 
 ### Day 20: 
+
+<img src=”#" alt=””>
 
 **Today's Progress**: 
 
@@ -181,6 +221,8 @@
 
 ### Day 21: 
 
+<img src=”#" alt=””>
+
 **Today's Progress**: 
 
 **Thoughts** 
@@ -189,6 +231,8 @@
 
 
 ### Day 22: 
+
+<img src=”#" alt=””>
 
 **Today's Progress**: 
 
@@ -199,6 +243,8 @@
 
 ### Day 23: 
 
+<img src=”#" alt=””>
+
 **Today's Progress**: 
 
 **Thoughts** 
@@ -207,6 +253,8 @@
 
 
 ### Day 24: 
+
+<img src=”#" alt=””>
 
 **Today's Progress**: 
 
@@ -217,6 +265,8 @@
 
 ### Day 25: 
 
+<img src=”#" alt=””>
+
 **Today's Progress**: 
 
 **Thoughts** 
@@ -225,6 +275,8 @@
 
 
 ### Day 26: 
+
+<img src=”#" alt=””>
 
 **Today's Progress**: 
 
@@ -235,6 +287,8 @@
 
 ### Day 27: 
 
+<img src=”#" alt=””>
+
 **Today's Progress**: 
 
 **Thoughts** 
@@ -243,6 +297,8 @@
 
 
 ### Day 28: 
+
+<img src=”#" alt=””>
 
 **Today's Progress**: 
 
@@ -253,6 +309,8 @@
 
 ### Day 29: 
 
+<img src=”#" alt=””>
+
 **Today's Progress**: 
 
 **Thoughts** 
@@ -261,6 +319,8 @@
 
 
 ### Day 30: 
+
+<img src=”#" alt=””>
 
 **Today's Progress**: 
 
@@ -271,6 +331,8 @@
 
 ### Day 31: 
 
+<img src=”#" alt=””>
+
 **Today's Progress**: 
 
 **Thoughts** 
@@ -279,6 +341,8 @@
 
 
 ### Day 32: 
+
+<img src=”#" alt=””>
 
 **Today's Progress**: 
 
@@ -289,6 +353,8 @@
 
 ### Day 33: 
 
+<img src=”#" alt=””>
+
 **Today's Progress**: 
 
 **Thoughts** 
@@ -297,6 +363,8 @@
 
 
 ### Day 34: 
+
+<img src=”#" alt=””>
 
 **Today's Progress**: 
 
@@ -307,6 +375,8 @@
 
 ### Day 35: 
 
+<img src=”#" alt=””>
+
 **Today's Progress**: 
 
 **Thoughts** 
@@ -315,6 +385,8 @@
 
 
 ### Day 36: 
+
+<img src=”#" alt=””>
 
 **Today's Progress**: 
 
@@ -325,6 +397,8 @@
 
 ### Day 37: 
 
+<img src=”#" alt=””>
+
 **Today's Progress**: 
 
 **Thoughts** 
@@ -333,6 +407,8 @@
 
 
 ### Day 38: 
+
+<img src=”#" alt=””>
 
 **Today's Progress**: 
 
@@ -343,6 +419,8 @@
 
 ### Day 39: 
 
+<img src=”#" alt=””>
+
 **Today's Progress**: 
 
 **Thoughts** 
@@ -351,6 +429,8 @@
 
 
 ### Day 40: 
+
+<img src=”#" alt=””>
 
 **Today's Progress**: 
 
@@ -361,6 +441,8 @@
 
 ### Day 41: 
 
+<img src=”#" alt=””>
+
 **Today's Progress**: 
 
 **Thoughts** 
@@ -369,6 +451,8 @@
 
 
 ### Day 42: 
+
+<img src=”#" alt=””>
 
 **Today's Progress**: 
 
@@ -379,6 +463,8 @@
 
 ### Day 43: 
 
+<img src=”#" alt=””>
+
 **Today's Progress**: 
 
 **Thoughts** 
@@ -387,6 +473,8 @@
 
 
 ### Day 44: 
+
+<img src=”#" alt=””>
 
 **Today's Progress**: 
 
@@ -397,6 +485,8 @@
 
 ### Day 45: 
 
+<img src=”#" alt=””>
+
 **Today's Progress**: 
 
 **Thoughts** 
@@ -405,6 +495,8 @@
 
 
 ### Day 46: 
+
+<img src=”#" alt=””>
 
 **Today's Progress**: 
 
@@ -415,6 +507,8 @@
 
 ### Day 47: 
 
+<img src=”#" alt=””>
+
 **Today's Progress**: 
 
 **Thoughts** 
@@ -423,6 +517,8 @@
 
 
 ### Day 48: 
+
+<img src=”#" alt=””>
 
 **Today's Progress**: 
 
@@ -433,6 +529,8 @@
 
 ### Day 49: 
 
+<img src=”#" alt=””>
+
 **Today's Progress**: 
 
 **Thoughts** 
@@ -441,6 +539,8 @@
 
 
 ### Day 50: 
+
+<img src=”#" alt=””>
 
 **Today's Progress**: 
 
@@ -451,6 +551,8 @@
 
 ### Day 51: 
 
+<img src=”#" alt=””>
+
 **Today's Progress**: 
 
 **Thoughts** 
@@ -459,6 +561,8 @@
 
 
 ### Day 52: 
+
+<img src=”#" alt=””>
 
 **Today's Progress**: 
 
@@ -469,6 +573,8 @@
 
 ### Day 53: 
 
+<img src=”#" alt=””>
+
 **Today's Progress**: 
 
 **Thoughts** 
@@ -477,6 +583,8 @@
 
 
 ### Day 54: 
+
+<img src=”#" alt=””>
 
 **Today's Progress**: 
 
@@ -487,6 +595,8 @@
 
 ### Day 55: 
 
+<img src=”#" alt=””>
+
 **Today's Progress**: 
 
 **Thoughts** 
@@ -495,6 +605,8 @@
 
 
 ### Day 56: 
+
+<img src=”#" alt=””>
 
 **Today's Progress**: 
 
@@ -505,6 +617,8 @@
 
 ### Day 57: 
 
+<img src=”#" alt=””>
+
 **Today's Progress**: 
 
 **Thoughts** 
@@ -513,6 +627,8 @@
 
 
 ### Day 58: 
+
+<img src=”#" alt=””>
 
 **Today's Progress**: 
 
@@ -523,6 +639,8 @@
 
 ### Day 59: 
 
+<img src=”#" alt=””>
+
 **Today's Progress**: 
 
 **Thoughts** 
@@ -531,6 +649,8 @@
 
 
 ### Day 60: 
+
+<img src=”#" alt=””>
 
 **Today's Progress**: 
 
@@ -541,6 +661,8 @@
 
 ### Day 61: 
 
+<img src=”#" alt=””>
+
 **Today's Progress**: 
 
 **Thoughts** 
@@ -549,6 +671,8 @@
 
 
 ### Day 62: 
+
+<img src=”#" alt=””>
 
 **Today's Progress**: 
 
@@ -559,6 +683,8 @@
 
 ### Day 63: 
 
+<img src=”#" alt=””>
+
 **Today's Progress**: 
 
 **Thoughts** 
@@ -567,6 +693,8 @@
 
 
 ### Day 64: 
+
+<img src=”#" alt=””>
 
 **Today's Progress**: 
 
@@ -577,6 +705,8 @@
 
 ### Day 65: 
 
+<img src=”#" alt=””>
+
 **Today's Progress**: 
 
 **Thoughts** 
@@ -585,6 +715,8 @@
 
 
 ### Day 66: 
+
+<img src=”#" alt=””>
 
 **Today's Progress**: 
 
@@ -595,6 +727,8 @@
 
 ### Day 67: 
 
+<img src=”#" alt=””>
+
 **Today's Progress**: 
 
 **Thoughts** 
@@ -603,6 +737,8 @@
 
 
 ### Day 68: 
+
+<img src=”#" alt=””>
 
 **Today's Progress**: 
 
@@ -613,6 +749,8 @@
 
 ### Day 69: 
 
+<img src=”#" alt=””>
+
 **Today's Progress**: 
 
 **Thoughts** 
@@ -621,6 +759,8 @@
 
 
 ### Day 70: 
+
+<img src=”#" alt=””>
 
 **Today's Progress**: 
 
@@ -631,6 +771,8 @@
 
 ### Day 71: 
 
+<img src=”#" alt=””>
+
 **Today's Progress**: 
 
 **Thoughts** 
@@ -639,6 +781,8 @@
 
 
 ### Day 72: 
+
+<img src=”#" alt=””>
 
 **Today's Progress**: 
 
@@ -649,6 +793,8 @@
 
 ### Day 73: 
 
+<img src=”#" alt=””>
+
 **Today's Progress**: 
 
 **Thoughts** 
@@ -657,6 +803,8 @@
 
 
 ### Day 74: 
+
+<img src=”#" alt=””>
 
 **Today's Progress**: 
 
@@ -667,6 +815,8 @@
 
 ### Day 75: 
 
+<img src=”#" alt=””>
+
 **Today's Progress**: 
 
 **Thoughts** 
@@ -675,6 +825,8 @@
 
 
 ### Day 76: 
+
+<img src=”#" alt=””>
 
 **Today's Progress**: 
 
@@ -685,6 +837,8 @@
 
 ### Day 77: 
 
+<img src=”#" alt=””>
+
 **Today's Progress**: 
 
 **Thoughts** 
@@ -693,6 +847,8 @@
 
 
 ### Day 78: 
+
+<img src=”#" alt=””>
 
 **Today's Progress**: 
 
@@ -703,6 +859,8 @@
 
 ### Day 79: 
 
+<img src=”#" alt=””>
+
 **Today's Progress**: 
 
 **Thoughts** 
@@ -711,6 +869,8 @@
 
 
 ### Day 80: 
+
+<img src=”#" alt=””>
 
 **Today's Progress**: 
 
@@ -721,6 +881,8 @@
 
 ### Day 81: 
 
+<img src=”#" alt=””>
+
 **Today's Progress**: 
 
 **Thoughts** 
@@ -729,6 +891,8 @@
 
 
 ### Day 82: 
+
+<img src=”#" alt=””>
 
 **Today's Progress**: 
 
@@ -739,6 +903,8 @@
 
 ### Day 83: 
 
+<img src=”#" alt=””>
+
 **Today's Progress**: 
 
 **Thoughts** 
@@ -747,6 +913,8 @@
 
 
 ### Day 84: 
+
+<img src=”#" alt=””>
 
 **Today's Progress**: 
 
@@ -757,6 +925,8 @@
 
 ### Day 85: 
 
+<img src=”#" alt=””>
+
 **Today's Progress**: 
 
 **Thoughts** 
@@ -765,6 +935,8 @@
 
 
 ### Day 86: 
+
+<img src=”#" alt=””>
 
 **Today's Progress**: 
 
@@ -775,6 +947,8 @@
 
 ### Day 87: 
 
+<img src=”#" alt=””>
+
 **Today's Progress**: 
 
 **Thoughts** 
@@ -783,6 +957,8 @@
 
 
 ### Day 88: 
+
+<img src=”#" alt=””>
 
 **Today's Progress**: 
 
@@ -793,6 +969,8 @@
 
 ### Day 89: 
 
+<img src=”#" alt=””>
+
 **Today's Progress**: 
 
 **Thoughts** 
@@ -801,6 +979,8 @@
 
 
 ### Day 90: 
+
+<img src=”#" alt=””>
 
 **Today's Progress**: 
 
@@ -811,6 +991,8 @@
 
 ### Day 91: 
 
+<img src=”#" alt=””>
+
 **Today's Progress**: 
 
 **Thoughts** 
@@ -819,6 +1001,8 @@
 
 
 ### Day 92: 
+
+<img src=”#" alt=””>
 
 **Today's Progress**: 
 
@@ -829,6 +1013,8 @@
 
 ### Day 93: 
 
+<img src=”#" alt=””>
+
 **Today's Progress**: 
 
 **Thoughts** 
@@ -837,6 +1023,8 @@
 
 
 ### Day 94: 
+
+<img src=”#" alt=””>
 
 **Today's Progress**: 
 
@@ -847,6 +1035,8 @@
 
 ### Day 95: 
 
+<img src=”#" alt=””>
+
 **Today's Progress**: 
 
 **Thoughts** 
@@ -855,6 +1045,8 @@
 
 
 ### Day 96: 
+
+<img src=”#" alt=””>
 
 **Today's Progress**: 
 
@@ -865,6 +1057,8 @@
 
 ### Day 97: 
 
+<img src=”#" alt=””>
+
 **Today's Progress**: 
 
 **Thoughts** 
@@ -873,6 +1067,8 @@
 
 
 ### Day 98: 
+
+<img src=”#" alt=””>
 
 **Today's Progress**: 
 
@@ -883,6 +1079,8 @@
 
 ### Day 99: 
 
+<img src=”#" alt=””>
+
 **Today's Progress**: 
 
 **Thoughts** 
@@ -891,6 +1089,8 @@
 
 
 ### Day 100: 
+
+<img src=”#" alt=””>
 
 **Today's Progress**: 
 
